@@ -1,6 +1,7 @@
 # Word-Bank
+I secured 160V and 167Q with my first GRE attempt. This repo has a curated list of most frequest GRE words that helped me during my preparation. I created this python app for revising through the list on a monthly basis. 
 
-## This repository is for GRE Preparation.
+## This repository is for GRE Vocabulary Preparation
 
 ### Pre-requisites
 #### 1. Python 3.5 or above
